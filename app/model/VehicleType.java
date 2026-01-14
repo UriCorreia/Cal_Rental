@@ -1,4 +1,4 @@
-package App.Model;
+package app.model;
 
 public class VehicleType {
 
